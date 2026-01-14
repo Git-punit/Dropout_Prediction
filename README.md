@@ -73,17 +73,21 @@ cd Digital-India-ABC-Projects/Dropout_Prediction
 ```
 
 ###2️⃣ Create Virtual Environment (Optional but Recommended)
+
 ```
 python -m venv venv
 source venv/bin/activate
 ```
 
 ###3️⃣ Install Dependencies
+
+
 ```
 pip install -r requirements.txt
 ```
 
 ###4️⃣ Run the Model
+
 ```
 python dropout_model.py
 ```
