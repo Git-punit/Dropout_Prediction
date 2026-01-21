@@ -91,11 +91,3 @@ pip install -r requirements.txt
 ```
 python dropout_model.py
 ```
-
-
-
-
-
-
-
-
